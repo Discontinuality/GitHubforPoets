@@ -15,3 +15,8 @@ On this steep and winding path,
 amidst vast hills all spectre grey,
 I will continue to advance,
 until the summit I obtain.
+
+Java script I will learn,
+and study hard for all to see,
+and node.js and react,
+postgress, git and http colon forward slash forward slash
