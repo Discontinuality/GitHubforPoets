@@ -20,3 +20,8 @@ Down through caverns deep, and dungeons dark,
 through crevices tight and small,
 down thunderous subterain rivers,
 I will wade and I will crawl.
+
+Java script I will learn,
+and study hard for all to see,
+and node.js and react,
+postgress, git and http colon forward slash forward slash
