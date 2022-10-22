@@ -1,5 +1,5 @@
 My GitHub Poem
-The "Over the mountain" Branch
+The "Under the ground" Branch
 
 The Learning of a brand new skill,
 is a trepiditious task for me,
@@ -15,3 +15,8 @@ On this steep and winding path,
 amidst vast hills all spectre grey,
 I will continue to advance,
 until the summit I obtain.
+
+Down through caverns deep, and dungeons dark,
+through crevices tight and small,
+down thunderous subterain rivers,
+I will wade and I will crawl.
